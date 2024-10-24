@@ -1,1 +1,18 @@
 # Python-script-to-sort-files-base-on-extention
+File Sorter Script
+
+Overview
+
+This Python script helps you organize your files by sorting them into respective folders based on their file extensions. It automatically categorizes files (e.g., images, documents, audio, videos) into predefined or custom folders, making it easier to manage cluttered directories.
+Features
+
+    Automatically sorts files based on their extension.
+    Supports common file types like images, documents, videos, and audio.
+    Can handle custom file extensions by modifying the extensions dictionary.
+    Lightweight and easy to use.
+    Organizes files into existing or newly created folders.
+
+Requirements
+
+    Python 3.x
+    OS: Windows, Linux, or macOS
