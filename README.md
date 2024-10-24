@@ -1,4 +1,4 @@
-# Python-script-to-sort-files-base-on-extention
+# Python script to sort files base on extention
 File Sorter Script
 
 Overview
