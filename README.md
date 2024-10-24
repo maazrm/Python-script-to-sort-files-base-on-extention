@@ -16,3 +16,9 @@ Requirements
 
     Python 3.x
     OS: Windows, Linux, or macOS
+
+How It Works
+
+    OrganizeFileScript.py: When you run this script, it automatically sorts all files in the current directory into their respective folders based on their file extensions.
+
+    OrganizeFileScriptWithVoiceCommand.py: This version of the script listens for a voice command. You can either command it to organize all files, or specify certain files to be sorted into their corresponding folders        based on file extensions.
